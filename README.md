@@ -33,7 +33,9 @@ The output says "Success! Your particle filter passed!"
 ![alt text][image1]
 
 
+### Reference
 
+Resampling Wheel - Artificial Intelligence for Robotics, Udacity, https://www.youtube.com/watch?v=wNQVo6uOgYA
 
 
 
